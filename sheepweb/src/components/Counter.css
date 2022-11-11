@@ -1,0 +1,22 @@
+.Counter {
+    margin: auto;
+    margin-top: 1cm;
+    text-align: center;
+    size: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    width: 100px;
+}
+.Center {
+    margin: auto;
+    text-align: center;
+}
+
+.Image {
+    margin: auto;
+    margin-top: 2cm;
+    text-align: center;
+    width: 200px;
+    border-radius: 20px;
+}
